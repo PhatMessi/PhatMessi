@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Nguyen Luong Phat
 
-<!--
-**PhatMessi/PhatMessi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at FPT University Quy Nhon  
+💻 Fresher Java / Backend Developer  
+🌱 Currently improving my skills in **Java, Spring Boot, RESTful APIs, and Backend Development**
 
-Here are some ideas to get you started:
+### 🔭 About Me
+- Interested in **Backend Development** and **Java-based systems**
+- Have internship experience in **backend services, APIs, databases, debugging, and teamwork**
+- Passionate about building **scalable, maintainable, and real-world software systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Java, SQL, C#, JavaScript
+- **Backend:** OOP, REST API, JWT, CRUD
+- **Frameworks:** Spring Boot (Basic), ASP.NET Core, Node.js
+- **Database:** PostgreSQL, MySQL, SQL Server
+- **Tools:** Git, Postman, VS Code
+- **Frontend:** HTML, CSS, ReactJS (Basic)
+
+### 📌 Current Focus
+- Learning and practicing **Java Backend Development**
+- Building personal projects with **Spring Boot**
+- Strengthening problem-solving and software engineering skills
+
+### 📫 Contact Me
+- Email: **nguyenluongphat1609@gmail.com**
+- GitHub: **https://github.com/PhatMessi**
+
+### ⚡ Fun Fact
+I enjoy learning backend technologies and turning ideas into working systems.
