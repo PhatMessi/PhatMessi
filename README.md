@@ -25,6 +25,7 @@
 ### 📫 Contact Me
 - Email: **nguyenluongphat1609@gmail.com**
 - GitHub: **https://github.com/PhatMessi**
+- CV: **https://www.canva.com/design/DAHDtvpsBqg/zLDETaaR_IoArd4QUzDzDg/edit?utm_content=DAHDtvpsBqg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton**
 
 ### ⚡ Fun Fact
 I enjoy learning backend technologies and turning ideas into working systems.
